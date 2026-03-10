@@ -20,7 +20,7 @@ public class run {
 		
 		System.out.print("Hinh CN1	co chieu dai la: ");
 		System.out.print(cn1_dai);
-		System.out.print("Hinh CN1	co chieu rong la: " + cn1_rong);
+		System.out.print("\n Hinh CN1	co chieu rong la: " + cn1_rong);
 		System.out.print(cn1.toString());
 		
 		
